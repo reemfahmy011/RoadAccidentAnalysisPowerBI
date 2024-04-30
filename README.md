@@ -4,7 +4,7 @@ The Road Accident Analysis Dashboard is a comprehensive visual tool designed to 
 ![Image Description](Picture2.png)
 
 
-Key Features:
+# Key Features:
 1. Vehicle Type and Impact Analysis:
 This feature enables users to analyze the types of vehicles involved in accidents and their impact on severity. Insights into collision dynamics, such as vehicle size, speed, and angle of impact, aid in       devising vehicle safety standards and infrastructure improvements.
    
@@ -14,7 +14,7 @@ By integrating weather and road condition data, the dashboard evaluates the infl
 3. Accident Trends:
 Through intuitive charts and graphs, the dashboard presents trends in accident occurrence over time. Users can identify patterns, seasonal variations, and emerging trends to allocate resources effectively and implement preventive measures.
 
-Accomplished Activities:
+# Accomplished Activities:
 1. Data Gathering from Kaggle UK Road Accident Data set (https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset).
    
 2. Understanding The Business Case and its Requirements.
